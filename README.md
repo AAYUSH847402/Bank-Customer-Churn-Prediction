@@ -1,5 +1,7 @@
 Bank Customer Churn Prediction App
+
 Table of Contents
+
 About The Project
 About the Data
 Target Variable
