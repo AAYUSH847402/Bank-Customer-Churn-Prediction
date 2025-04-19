@@ -112,14 +112,3 @@ Make your changes.
 Commit your changes (git commit -am 'Add feature').
 Push to your branch (git push origin feature-name).
 Create a new Pull Request.
-License
-Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-Aayush - @aayush.kjha.aj@gmail.com
-
-Acknowledgements
-TensorFlow: For providing the machine learning framework to train the predictive model.
-Streamlit: For creating the interactive web application.
-Scikit-learn: For preprocessing utilities such as scaling and encoding.
-Kaggle: For the inspiration behind the dataset, which is similar to the dataset used in this project.
