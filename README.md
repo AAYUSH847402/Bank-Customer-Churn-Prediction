@@ -77,7 +77,7 @@ To get started with this project locally, you’ll need Python 3.8+ installed on
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/shubhamprajapati7748/Bank-Customer-Churn-Prediction.git
+     git clone https://github.com/AAYUSH847402/Bank-Customer-Churn-Prediction.git
      ```
 
 2. Create a Virtual Environment (Optional)
@@ -118,12 +118,12 @@ To get started with this project locally, you’ll need Python 3.8+ installed on
 
 1. Pull the Docker image from DockerHub (if available):
     ```bash
-    docker pull shubhamprajapati7748/churn-prediction-app
+    docker pull AAYUSH847402/Bank-Customer-Churn-Prediction-app
     ```
 
 2. Run the app inside the container:
     ```bash
-    docker run -p 8501:8501 shubhamprajapati7748/churn-prediction-app
+    docker run -p 8501:8501 AAYUSH847402/Bank-Customer-Churn-Prediction-app
     ```
 
 3. Visit `http://localhost:8501` in your browser to use the app.
@@ -152,9 +152,6 @@ We welcome contributions to improve this project! Whether you are fixing bugs, a
 5. Push to your branch (`git push origin feature-name`).
 6. Create a new Pull Request.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
