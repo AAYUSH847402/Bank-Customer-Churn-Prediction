@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Shubham Prajapati - [@shubhamprajapati7748@gmail.com](shubhamprajapati7748@gmail.com)
+Aayush Jha - aayush.kjha.aj@gmail.com
 
 ## Acknowledgements
 
